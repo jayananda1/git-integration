@@ -1,8 +1,8 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.jdevs</groupId>
-  <artifactId>Cloud-DevOps_1</artifactId>
-  <version>1.0-SNAPSHOT</version>
+  <artifactId>Cloud-DevOps</artifactId>
+  <version>1.0</version>
   <packaging>war</packaging>
   <build>
     <sourceDirectory>src</sourceDirectory>
@@ -33,12 +33,12 @@
         <repository>
             <id>deployment</id>
             <name>Internal Releases</name>
-            <url>http://192.168.121.142:8081/repository/Test1_Release/</url>
+            <url>http://192.168.56.204:8081/repository/jaya/</url>
         </repository>
         <snapshotRepository>
             <id>deployment</id>
             <name>Internal Snapshot Releases</name>
-            <url>http://192.168.121.142:8081/repository/Test1_Snap/</url>
+            <url>http://192.168.56.204:8081/repository/jaya1/</url>
         </snapshotRepository>
     </distributionManagement>
   <dependencies>
