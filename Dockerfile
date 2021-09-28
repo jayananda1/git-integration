@@ -13,3 +13,4 @@ WORKDIR /opt/Tomcat/webapps
 COPY Cloud-DevOps_1-1.0-SNAPSHOT.war /opt/Tomcat/webapps/
 EXPOSE 8080
 CMD ["/opt/Tomcat/bin/startup.sh", "run"]
+#env
