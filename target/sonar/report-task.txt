@@ -1,6 +1,0 @@
-projectKey=com.jdevs:Cloud-DevOps
-serverUrl=http://localhost:9000
-serverVersion=7.4.0.18908
-dashboardUrl=http://localhost:9000/dashboard?id=com.jdevs%3ACloud-DevOps
-ceTaskId=AXzZMiEGlyvPDkO0rObz
-ceTaskUrl=http://localhost:9000/api/ce/task?id=AXzZMiEGlyvPDkO0rObz
