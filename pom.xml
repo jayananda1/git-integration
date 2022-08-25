@@ -38,7 +38,7 @@
         <snapshotRepository>
             <id>deployment</id>
             <name>Internal Snapshot Releases</name>
-            <url>http://192.168.56.141:8081/repository/testskill1//</url>
+            <url>http://192.168.56.141:8081/repository/testskill1/</url>
         </snapshotRepository>
     </distributionManagement>
   <dependencies>
